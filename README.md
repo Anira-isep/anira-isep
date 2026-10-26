@@ -1,5 +1,11 @@
  Hello, I´m anira
 
+🎓 I finished my high school in (GPSI) Management and Programming of Computer Systems 
+
+📚 Currently studying CTeSP Level 5
+
+🌱 Currently learning: Agile Software Development
+
 
 <!--
 **Anira-isep/anira-isep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
